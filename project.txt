@@ -3,3 +3,5 @@ Time Zone Change:
 
 https://www.tecmint.com/set-time-timezone-and-synchronize-time-using-timedatectl-command/
 
+Introduction:
+Hadoop is an open-source framework that allows to store and process big data in a distributed environment across clusters of computers using simple programming models.
