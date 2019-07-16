@@ -1,1 +1,21 @@
-hi boss
+References:
+Time Zone Change:
+
+https://www.tecmint.com/set-time-timezone-and-synchronize-time-using-timedatectl-command/
+
+https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_yarn-resource-management/content/managing_cluster_capacity_with_queues.html
+
+https://docs.hortonworks.com/HDPDocuments/Ambari-2.6.1.5/bk_ambari-operations/content/how_to_configure_namenode_high_availability.html
+
+
+for HA,
+https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_hadoop-high-availability/ 
+
+hiveserver2 nd llap
+https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.4/bk_hive-performance-tuning/content/ch_connectivity-admission-control.html
+
+llap sizing
+https://community.hortonworks.com/articles/149486/llap-sizing-and-setup.html
+
+oozie UI enabling
+https://docs.hortonworks.com/HDPDocuments/Ambari-2.6.1.5/bk_ambari-operations/content/rebuilding_oozie_war.html
